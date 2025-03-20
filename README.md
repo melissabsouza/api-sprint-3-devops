@@ -15,7 +15,7 @@ link
 ---
 ### URL DO WEBAPP
 
-https://dental-insurance.azurewebsites.net/
+https://dental-insurance-odprv.azurewebsites.net/
 
 Endpoints contendo CRUD: 
 
